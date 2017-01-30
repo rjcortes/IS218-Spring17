@@ -1,1 +1,5 @@
-# IS2018-Spring17
+<?php
+
+  echo "IS218 HW2 - RJC"
+
+?>
